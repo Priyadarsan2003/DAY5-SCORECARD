@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+}
+#photo{
+    position: absolute;
+    /* padding-left: 10vw; */
+    /* padding-top: 10vh; */
+}
+.pic{
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+}
+.d1{
+    position: absolute;
+    padding-left: 36vw;
+    padding-top: 15vh;
+    text-align: center;
+    font-size: 1.5em;
+}
+table, tr, td{
+    border: 0.3px solid black;
+    background-color: aliceblue;
+    color:black;
+}
+#heading1{
+    color: antiquewhite;
+}
